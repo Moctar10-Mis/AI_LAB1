@@ -13,7 +13,7 @@
 ### Course Details
 * **Course Code:** CS254
 * **Course Name:** Artificial Intelligence
-* **Semester:** semester_placeholder
+
 
 ---
 
