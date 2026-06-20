@@ -21,11 +21,3 @@
 * **Assignment:** Lab 1 (Part A & Part B)
 * **Topic:** Uninformed and Informed Search Algorithms (Drone Pathfinding)
 * **Status:** Completed and Verified
-
----
-
-## How to Run the Project
-1. Clone this repository to your local machine.
-2. Open the project folder in VS Code.
-3. Ensure you have the required libraries installed: `numpy`, `pandas`, `matplotlib`.
-4. Open the Jupyter Notebook file (`.ipynb`) and run all cells sequentially.
