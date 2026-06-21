@@ -4,8 +4,8 @@
 ## Department of Computer Science
 
 ### Student Information
-* **Name:** Moctar 
-* **Student ID:** [Insert Your Student ID Here]
+* **Name:** Moctar Issoufou Salifou
+* **Student ID:30692027
 * **GitHub Username:** Moctar10-Mis
 
 ---
@@ -20,4 +20,3 @@
 ### Assignment Details
 * **Assignment:** Lab 1 (Part A & Part B)
 * **Topic:** Uninformed and Informed Search Algorithms (Drone Pathfinding)
-* **Status:** Completed and Verified
